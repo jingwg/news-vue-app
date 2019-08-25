@@ -1,4 +1,5 @@
-# vue-app
+# news-vue-app
+demo: https://jingwg.github.io/news-vue-app/
 
 ## Project setup
 ```
