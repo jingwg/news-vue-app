@@ -1,6 +1,9 @@
 # news-vue-app
 demo: https://jingwg.github.io/news-vue-app/
 
+![](demo_gif.gif)
+
+
 ## Project setup
 ```
 npm install
